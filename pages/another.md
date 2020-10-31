@@ -1,3 +1,0 @@
-# Another page here
-
-hi!
